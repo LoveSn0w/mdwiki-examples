@@ -1,6 +1,6 @@
 # MDwiki examples
 
-[gimmick:Theme (inverse: false)](flatly)
+[gimmick:Theme (inverse: false)](flatl)
 [gimmick:ForkMeOnGitHub](http://github.com/Dynalon/mdwiki-examples/)
 [Coffee Place](cafe/)
 [Travel blog](travel_blog/)
